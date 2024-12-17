@@ -10,7 +10,8 @@ Podemos começar com os programas utilizados no desenvolvimento. Optei pela plat
 
   No meu caso eu utilizei o Microsoft SQL Server Management Studio, para a criação do banco de dados. Neste caso, se você quiser adaptar a um outro sugiro que você troque frameworks para adaptar com o desejado.
 
-#Configurações de Projetos
+# Configurações de Projetos
+
   Após a instalação de ambos podemos então abrir a pasta com os respectivos arquivos deste projeto, encontrando no canto direito os sguintes arquivos:
 
   ![image](https://github.com/user-attachments/assets/12b29a71-c66d-49c8-a241-24bd3aad5380)
@@ -35,7 +36,7 @@ canto da solução do projeto, está irá conter todos os comandos sql para a cr
 
 ![image](https://github.com/user-attachments/assets/e0a4f710-4bd6-40af-9a54-5d7e62657baf)        ![image](https://github.com/user-attachments/assets/c5a1b850-dfa5-49b9-97f5-39076bca4dbc)
 
-#Executando e realizando testes
+# Executando e realizando testes
 
   Na parte superior do seu Visual Studio você poderá encontrar as seguintes opções:
 
@@ -46,14 +47,17 @@ canto da solução do projeto, está irá conter todos os comandos sql para a cr
 
 ![image](https://github.com/user-attachments/assets/0a631246-8ac3-483b-bdf6-adaf2229e14e)        ![image](https://github.com/user-attachments/assets/d473ecaf-f452-47da-9523-62c0b8a4cf80)
 
-#Registrando Conta
+# Registrando Conta
+
 
   ![image](https://github.com/user-attachments/assets/2885e07c-aab2-4cfc-9402-ba7dcac17b6d)      ![image](https://github.com/user-attachments/assets/796aad4d-ba1f-4b9e-87a0-fe5f72f52da3)
 
-#Listando Contas
+# Listando Contas
+
 ![image](https://github.com/user-attachments/assets/74038b56-1da3-4436-b7fe-f04c76bffa58)
 
-#Autenticação de conta
+# Autenticação de conta
+
   Para autenticarmos a conta será necessário o accountNumber, que é gerado aleatóriamente para cada conta criada. Ela pode ser observada na parte de listar as contas.
   Autenticação sendo realizada:
   
